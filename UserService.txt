@@ -1,3 +1,5 @@
 This is UserServie text file.
 Get the user data
 and process the data
+
+Create an avatar for the user
